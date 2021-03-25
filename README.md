@@ -9,7 +9,7 @@ Attila Toth and Kumar Dhuvur
 * How did the idea for the company (or project) come about?
 Frequent natural disasters displace families, devastate communities and drive financial loss. Zesty.ai uses artificial intelligence to understand the impact of climate risk to each and every building
 * How is the company funded? How much funding have they received?
-Received 13mm in 2018
+Received 13mm in 2018 for a total of 
 
 ## Business Activities:
 
